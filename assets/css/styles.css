@@ -11,6 +11,7 @@ body {
 
 .card {
     max-width: 500px;
+    margin: 50px 0px;
     padding: 20px;
     background-color: hsl(0, 0%, 100%);
     border-radius: 10px;
@@ -48,7 +49,7 @@ body {
 .preparation-time ul,
 .ingredients ul,
 .instructions ol {
-    padding-left: 15px; /* Remove left padding */
+    padding-left: 15px;
     
 }
 
