@@ -82,10 +82,6 @@ body {
     font-weight: 600;
 }
 
-.sub-heading {
-    font-weight: 600;
-}
-
 @font-face {
     font-family: "Outfit-Bold";
     src: url("../fonts/Outfit-Bold.ttf");
