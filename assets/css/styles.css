@@ -43,6 +43,9 @@ body {
 .card-image img {
     border-radius: 0.625rem;
     height: auto;
+    block-size: auto;
+    object-fit: cover;
+    object-position: top center;
 }
 
 h1, h2 {
